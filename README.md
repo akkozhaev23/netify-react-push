@@ -1,4 +1,4 @@
-zhasulan-translater.netlify.app
+https://zhasulan-translater.netlify.app/
 
 # Getting Started with Create React App
 
